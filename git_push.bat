@@ -1,7 +1,8 @@
+@echo  off
 SETLOCAL
 
+cls
 
-@echo  off
 echo ====================== git status ============================
 git status
 pause
